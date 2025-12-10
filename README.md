@@ -38,7 +38,7 @@ python main_game.py
  ```
 4.Follow the on-screen prompts to guess letters and try to guess the word before running out of attempts.
 
-##✅ Game Rules
+## ✅ Game Rules
 
 ● You’ll see underscores representing each letter of the hidden word.
 
@@ -52,7 +52,7 @@ python main_game.py
 
 ● The game ends when either you guess all letters correctly (win), or you reach the maximum allowed wrong guesses (lose).
 
-##🎓 Why This Project
+## 🎓 Why This Project
 
 ● This project is a good exercise for beginners to learn:
 
@@ -64,7 +64,7 @@ python main_game.py
 
 ● simple game logic and control flow flow.
 
-##🚀 Future Improvements (Ideas)
+## 🚀 Future Improvements (Ideas)
 
 ● Add difficulty levels (e.g., easy / medium / hard word lists).
 
