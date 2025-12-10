@@ -18,8 +18,6 @@ The game picks a random word from a predefined list and lets the player guess it
 
 ## 📁 Project Structure
 
-## 📁 Project Structure
-
 ```
 hangman-word-guess/
 ├── main_game.py       # Main script to run the game
