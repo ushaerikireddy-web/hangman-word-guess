@@ -34,7 +34,7 @@ hangman-word-guess/
 3. In a terminal, run:
 
 ```bash
-python main_game.py
+python main_game.py ```
 4.Follow the on-screen prompts to guess letters and try to guess the word before running out of attempts.
 
 ✅ Game Rules
